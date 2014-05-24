@@ -5,7 +5,7 @@ include theos/makefiles/common.mk
 TWEAK_NAME = BadgeRemover
 BadgeRemover_FILES = Tweak.xm
 
-SUBPROJECTS = prefs
+SUBPROJECTS = BadgeRemoverPrefs
 
 include $(THEOS_MAKE_PATH)/tweak.mk
 include $(THEOS_MAKE_PATH)/aggregate.mk
