@@ -1,0 +1,10 @@
+{
+    entry = {
+		cell = PSSwitchCell;
+		default = 1;
+		defaults = com.aehmlo.badgeremover;
+		icon = BadgeRemoverPrefs.png;
+		label = "Badge Remover";
+		key = Enable;
+    };
+}
