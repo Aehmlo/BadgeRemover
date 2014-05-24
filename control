@@ -1,9 +1,9 @@
 Package: com.aehmlo.badgeremover
 Name: Badge Remover
-Depends: mobilesubstrate
+Depends: mobilesubstrate, preferenceloader, firmware (>=7.0)
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: Removes app badges.
 Maintainer: Aehmlo Lxaitn
 Author: Aehmlo Lxaitn
 Section: Tweaks
