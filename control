@@ -3,7 +3,8 @@ Name: Badge Remover
 Depends: mobilesubstrate, preferenceloader, firmware (>=7.0)
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: Removes app badges.
+Description: Removes app badges. Icon by @Akadi_Nor.
 Maintainer: Aehmlo Lxaitn
 Author: Aehmlo Lxaitn
 Section: Tweaks
+Icon: file:///Library/PreferenceLoader/Preferences/BadgeRemover@2x.png
